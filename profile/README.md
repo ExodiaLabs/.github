@@ -1,65 +1,55 @@
 <div align="center">
 
-# ExodiaLabs
+<img src="https://raw.githubusercontent.com/ExodiaLabs/.github/develop/profile/assets/hero.svg" alt="ExodiaLabs — Independent software lab" width="100%" />
 
-### Independent software lab.
+<br />
 
-**Thoughtful tools. Useful products. Built with purpose.**
+**Independent by nature. Purposeful by design.**
 
-We design and develop software that makes everyday tasks simpler — for developers, teams, and people.
+We build elegant, pragmatic software for people and developers — with quality, simplicity and long-term usefulness at the core.
 
-[**Website**](https://exodialabs.dev) · [**Explore our projects**](https://github.com/orgs/ExodiaLabs/repositories) · [**WordPress plugin**](https://wordpress.org/plugins/signinforge/)
+[**Explore the website**](https://exodialabs.dev) &nbsp;·&nbsp; [**View repositories**](https://github.com/orgs/ExodiaLabs/repositories) &nbsp;·&nbsp; [**SignInForge on WordPress.org**](https://wordpress.org/plugins/signinforge/)
 
 </div>
 
----
+<br />
 
 ## What we build
 
-| Area | Focus |
-| :--- | :--- |
-| **Applications** | Practical experiences designed around real-world needs. |
-| **Developer tools** | Tools that simplify development, infrastructure, and maintenance. |
-| **WordPress** | Focused extensions built for flexibility and ease of use. |
-| **Platform** | The home of our products, experiments, and future releases. |
+<table>
+<tr>
+<td width="50%"><img src="https://raw.githubusercontent.com/ExodiaLabs/.github/develop/profile/assets/applications.svg" width="100%" alt="Applications — Human-centered experiences" /></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/ExodiaLabs/.github/develop/profile/assets/developer-tools.svg" width="100%" alt="Developer tools — Build, ship and operate" /></td>
+</tr>
+<tr>
+<td width="50%"><img src="https://raw.githubusercontent.com/ExodiaLabs/.github/develop/profile/assets/wordpress.svg" width="100%" alt="WordPress — Refine the essentials" /></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/ExodiaLabs/.github/develop/profile/assets/platform.svg" width="100%" alt="Platform — A home for what comes next" /></td>
+</tr>
+</table>
 
-## Explore our projects
+## Selected work
 
-### Developer tools
-
-| Project | Description | Source |
+| Product | Purpose | Availability |
 | :--- | :--- | :--- |
-| **[Exodock](https://github.com/ExodiaLabs/Exodock)** | A terminal-based interface to make Docker management more accessible. | [GitHub](https://github.com/ExodiaLabs/Exodock) |
-| **[ExoPulse](https://github.com/ExodiaLabs/ExoPulse)** | A tool for tracking repository health, dependencies, and security. | [GitHub](https://github.com/ExodiaLabs/ExoPulse) |
+| **[Exodock](https://github.com/ExodiaLabs/Exodock)** | A visual, keyboard-driven Docker administration console. | Public source · experimental |
+| **[ExoPulse](https://github.com/ExodiaLabs/ExoPulse)** | Explore dependency health, technical debt and framework lifecycles across repositories. | Public source · experimental |
+| **[SignInForge](https://wordpress.org/plugins/signinforge/)** | Customize WordPress authentication interfaces. | Available on WordPress.org |
+| **MiaMiam** | A thoughtfully designed mobile companion for family life. | In development |
+| **Exolane** | A visual Git and SVN desktop workspace. | Internal tooling |
 
-These tools are developed primarily for internal use and experimentation. Public availability does not imply a stable release or commercial support.
+> Our public repositories may include experimental software. Production readiness, release cadence and support vary by project.
 
-### WordPress
+## The way we work
 
-**[SignInForge](https://wordpress.org/plugins/signinforge/)** — Customize WordPress authentication experiences with a focus on clarity and control.
+**Useful by design** &nbsp; / &nbsp; **Simple by default** &nbsp; / &nbsp; **Built to last**
 
-[View on WordPress.org](https://wordpress.org/plugins/signinforge/)
-
-### Applications
-
-We're also working on applications built to solve practical, everyday problems. We'll share more when they're ready for public release.
-
-### ExodiaLabs platform
-
-Visit **[exodialabs.dev](https://exodialabs.dev)** for information about the lab, our products, and future releases.
+We believe good software should solve a real problem before adding complexity. We favour clear experiences, careful engineering and steady iteration over feature overload.
 
 ---
 
-## Our approach
-
-- **Useful by design** — solve a real problem before adding complexity.
-- **Quality over quantity** — favour maintainable, thoughtful software.
-- **Simple where possible** — make powerful tools approachable.
-- **Always evolving** — experiment, learn, and improve incrementally.
-
 <div align="center">
 
-**Built independently. Made to be useful.**
+**ExodiaLabs** · Independent software lab
 
 [exodialabs.dev](https://exodialabs.dev)
 
