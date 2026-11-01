@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-label="ExodiaLabs — Independent software lab">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#171322"/><stop offset=".58" stop-color="#201A31"/><stop offset="1" stop-color="#111019"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#A894D3" stop-opacity=".26"/><stop offset="1" stop-color="#A894D3" stop-opacity="0"/></radialGradient>
+<linearGradient id="symbol" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#DACCEF"/><stop offset="1" stop-color="#8F7CB5"/></linearGradient>
+<pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#BCA8DE" opacity=".12"/></pattern>
+</defs>
+<rect width="1200" height="350" rx="24" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="348" rx="23" fill="none" stroke="#544662" opacity=".55"/>
+<rect width="1200" height="350" rx="24" fill="url(#dots)"/>
+<circle cx="964" cy="176" r="230" fill="url(#glow)"/>
+<circle cx="978" cy="170" r="126" stroke="#A08EBB" stroke-opacity=".13"/>
+<circle cx="978" cy="170" r="168" stroke="#A08EBB" stroke-opacity=".08"/>
+<g transform="translate(910 102)" fill="none" stroke="url(#symbol)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+<path d="M65 0 130 65 65 130 0 65Z"/>
+<path d="M65 29 101 65 65 101 29 65Z" opacity=".75"/>
+<path d="M65 0V29M130 65H101M65 130V101M0 65H29" opacity=".8"/>
+</g>
+<rect x="68" y="62" width="96" height="3" rx="1.5" fill="#AE96D8"/>
+<text x="68" y="129" fill="#F6F2FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="55" font-weight="700" letter-spacing="-1.6">Exodia<tspan fill="#BAA7DE">Labs</tspan></text>
+<text x="70" y="183" fill="#F1ECF7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="500">Independent software lab.</text>
+<text x="70" y="229" fill="#BEB3CF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20">Thoughtful tools. Useful products. Built with purpose.</text>
+<rect x="70" y="269" width="194" height="37" rx="18.5" fill="#AC94D0" fill-opacity=".12" stroke="#927CB5"/>
+<text x="167" y="293" text-anchor="middle" fill="#D6C6EE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">exodialabs.dev</text>
+</svg>
